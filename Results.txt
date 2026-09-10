@@ -1,0 +1,2 @@
+KIC Dnu (muHz) nu_max (muHz) Dpi1 (s) dnurot_core (nHz) number_of_components
+6144777 11.03 128.40 79.10 240.0 3
