@@ -32,7 +32,7 @@ The model is fitted to the data by centering the synthetic pattern on the observ
 
 ### Results
 
-The results are saved in the file Results.txt; KIC is the identifier of the star analyzed; Dnu is the large frequency separation between radial pressure oscillation modes; nu_max is the frequency of maximum oscillation power; Dpi1 is the period spacing associated to dipole gravity oscillation modes; dnurot_core is the core rotation rate in frequency; number_of_components is the number of visible rotational components in the échelle diagram. The final échelle diagram showing the data and the best-fitting model is also saved as Echelle_diagram_KIC_*.pdf
+The results are saved in the file Results.txt; KIC is the identifier of the star analyzed; Dnu is the large frequency separation between radial pressure oscillation modes; nu_max is the frequency of maximum oscillation power; Dpi1 is the period spacing associated to dipole gravity oscillation modes; dnurot_core is the core rotation rate in frequency; number_of_components is the number of visible rotational components in the échelle diagram. The final échelle diagram showing the data and the best-fitting model is also saved as Echelle_diagram_KIC_*.pdf.
 
 
 ### Key findings
