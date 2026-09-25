@@ -17,7 +17,7 @@ The dataset is composed of the physical parameters contained in the file Core_ro
 
 Two plots are saved, representing two examples of what we can learn from the data: M_R.pdf and Evolution_core_rotation_colored_with_mass.pdf.
 
-1. The plot M_R.pdf represents the mass of red giant stars as a function of their radius, both estimated based on scaling relations using physical parameters. It highlights that there is a significant correlation between the stellar mass and radius associated to a Pearson correlation coefficient of 0.495 and a p-value of 1.889 * 10**(-53).
+1. The plot M_R.pdf represents the mass of red giant stars as a function of their radius, both estimated based on scaling relations using physical parameters. It highlights that there is a significant correlation between the stellar mass and radius associated to a Pearson correlation coefficient of 0.495 and a p-value, i.e. a probability of obtaining the observed results by assuming that the values are randomly distributed, of 1.889 * 10**(-53).
 
 2. The plot Evolution_core_rotation_colored_with_mass.pdf represents the core rotation rate in frequency as a function of a proxy for the degree of evolution of stars estimated based on a scaling relation using physical parameters obtained with asteroseismology. The color code represents the stellar mass and the black dashed lines indicate a fit with a power-of-ten function.
 
